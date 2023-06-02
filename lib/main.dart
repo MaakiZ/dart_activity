@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/widget_inspector.dart';
 
 /*
 A classe Usuario possui os campos obrigatórios (nome, e-mail e CPF)
